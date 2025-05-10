@@ -29,4 +29,11 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Controller\" />
+    <Folder Include="My Project\NewFolder3\" />
+    <Folder Include="Views\" />
+  </ItemGroup>
+
 </Project>
