@@ -1,12 +1,269 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\UTE\\THUCHANHLAPTRINHTRUCQUAN\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\views\\hopdongview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\views\\hopdongview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\views\\hopdongview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\views\\hopdongview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\controller\\phongcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\controller\\phongcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\controller\\hopdongcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\controller\\hopdongcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\views\\phong_view.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\views\\phong_view.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\controller\\hopdongcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\controller\\hopdongcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\controller\\phongcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\controller\\phongcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\model\\hopdong.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\model\\hopdong.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\model\\hopdong.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\model\\hopdong.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\views\\phong_view.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\views\\phong_view.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\model\\phong.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\model\\phong.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\model\\phong.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\model\\phong.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|c:\\users\\admin\\source\\repos\\baitapcuoiky_cotrang\\quanlyphongtro\\app_quanlyphongtro\\app_quanlyphongtro\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{77A3DE2A-2EB9-4D74-BA70-B9CBF9C773CD}|APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO.vbproj|solutionrelative:app_quanlyphongtro\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Form1.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Form1.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Form1.vb [Design]",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T04:01:50.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HopDongView.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Views\\HopDongView.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Views\\HopDongView.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Views\\HopDongView.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Views\\HopDongView.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:39:58.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HopDongView.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Views\\HopDongView.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Views\\HopDongView.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Views\\HopDongView.vb [Design]",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Views\\HopDongView.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:39:55.896Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HopDongController.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Controller\\HopDongController.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Controller\\HopDongController.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Controller\\HopDongController.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Controller\\HopDongController.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:37:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HopDongController.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Controller\\HopDongController.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Controller\\HopDongController.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Controller\\HopDongController.vb [Design]",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Controller\\HopDongController.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:37:24.27Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HopDong.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Model\\HopDong.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Model\\HopDong.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Model\\HopDong.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Model\\HopDong.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:35:47.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HopDong.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Model\\HopDong.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Model\\HopDong.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Model\\HopDong.vb [Design]",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Model\\HopDong.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:35:39.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Form1.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Form1.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Form1.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:29:59.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Phong_view.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Views\\Phong_view.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Views\\Phong_view.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Views\\Phong_view.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Views\\Phong_view.vb",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:22:35.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhongController.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Controller\\PhongController.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Controller\\PhongController.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Controller\\PhongController.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Controller\\PhongController.vb",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:12:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhongController.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Controller\\PhongController.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Controller\\PhongController.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Controller\\PhongController.vb [Design]",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Controller\\PhongController.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T03:12:21.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Phong_view.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Views\\Phong_view.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Views\\Phong_view.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Views\\Phong_view.vb [Design]",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Views\\Phong_view.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T02:55:29.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Phong.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Model\\Phong.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Model\\Phong.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Model\\Phong.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Model\\Phong.vb",
+              "ViewState": "AgIAACoAAAAAAAAAAAApwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T02:53:52.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Phong.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Model\\Phong.Designer.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\Model\\Phong.Designer.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\Model\\Phong.Designer.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\Model\\Phong.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T02:53:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "APP_QUANLYPHONGTRO\\ApplicationEvents.vb",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BaiTapCuoiKy_CoTrang\\QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\APP_QUANLYPHONGTRO\\ApplicationEvents.vb",
+              "RelativeToolTip": "APP_QUANLYPHONGTRO\\ApplicationEvents.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T02:52:18.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

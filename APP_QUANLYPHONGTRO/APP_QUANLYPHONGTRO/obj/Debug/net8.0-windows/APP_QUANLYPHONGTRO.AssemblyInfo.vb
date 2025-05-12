@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("APP_QUANLYPHONGTRO"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a247d8bed07a9f5781de4704610b4ce1621ad50d"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7da32144d55b8072fef21d71a9a246d8ab4c2c"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("APP_QUANLYPHONGTRO"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("APP_QUANLYPHONGTRO"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
